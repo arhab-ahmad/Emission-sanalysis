@@ -7,11 +7,18 @@ In this project, we will see the emission of methane gas globally and try to und
 The following dataset has information about methane gas emissions globally. Details about the columns are as follows:
 
 region -
+
 country - Country of Emission.
+
 emissions - Methane Emissions in kt.
+
 type - Sector from which emissions occur.
+
 Segment- Sub-sector from which emissions occur.
+
 reason - The reason for the emission.
+
 baseYear - Base year for the tracking of emissions.
+
 notes - The source of data
 
